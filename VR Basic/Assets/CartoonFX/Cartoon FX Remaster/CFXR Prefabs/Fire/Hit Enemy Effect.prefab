@@ -4911,7 +4911,7 @@ GameObject:
   - component: {fileID: 2504214343621411457}
   - component: {fileID: 4741991464754137355}
   m_Layer: 0
-  m_Name: CFXR3 Hit Fire B (Air)
+  m_Name: Hit Enemy Effect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5124,7 +5124,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.69803923, g: 0.44000143, b: 0.20784314, a: 1}
+      maxColor: {r: 0.21146314, g: 0.25472513, b: 0.8490566, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -6268,7 +6268,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
-        key1: {r: 0.6886792, g: 0.12127518, b: 0, a: 1}
+        key1: {r: 0, g: 0.0428427, b: 0.6901961, a: 1}
         key2: {r: 0.6886792, g: 0.12127518, b: 0, a: 1}
         key3: {r: 0, g: 0, b: 0, a: 1}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -6292,7 +6292,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
-        m_ColorSpace: -1
+        m_ColorSpace: 0
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
